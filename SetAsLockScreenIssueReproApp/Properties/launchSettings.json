@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "SetAsLockScreenIssueReproApp (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "SetAsLockScreenIssueReproApp (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
